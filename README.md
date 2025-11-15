@@ -2,6 +2,8 @@
 
 A side-by-side comparison of multi-agent orchestration frameworks. This repository implements the same collaborative task across AutoGen and CrewAI to help you understand their different approaches to agent coordination.
 
+![multi agent team](multi-agent-team.png)
+
 ## Frameworks Compared
 
 - **AutoGen** (Microsoft) - Conversation-centric multi-agent framework
