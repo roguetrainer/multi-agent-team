@@ -1,0 +1,13 @@
+# Core dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# AutoGen
+pyautogen>=0.2.0
+
+# CrewAI
+crewai>=0.28.0
+crewai-tools>=0.1.0
+
+# Utilities
+rich>=13.0.0  # For better console output
